@@ -3,9 +3,5 @@ __pycache__/
 .env
 .DS_Store
 
-# large files
-data/*.csv
-models/*.pkl
-
 # notebooks checkpoints
 .ipynb_checkpoints/
