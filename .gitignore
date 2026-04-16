@@ -1,6 +1,11 @@
 __pycache__/
 *.pyc
 .env
-data/
-models/
+.DS_Store
+
+# large files
+data/*.csv
+models/*.pkl
+
+# notebooks checkpoints
 .ipynb_checkpoints/
